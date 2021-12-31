@@ -12,7 +12,7 @@ As stated above, the main purpose is to provide simple examples for git training
 This is a simple web project, deployment can be on any server or even local file system.
 
 ## How To Contribute
-We can practise on this
+There i nothing to contribute all you have to odo is practidse
 
 ### Copyright
 2021 no copy Right
