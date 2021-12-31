@@ -16,4 +16,4 @@ This is a simple web project, deployment can be on any server or even local file
 There i nothing to contribute all you have to odo is practidse
 
 ### Copyright
-2021 no copy Right
+2021 no copy Right.All rights reserved
