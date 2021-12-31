@@ -19,12 +19,11 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-	some interesting
+
+			checking for merging conflicts
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Git Traning 2014</p>
-
-	</footer>
+		<p>&copy; ram 2014</p>
 </body>
 </html>
