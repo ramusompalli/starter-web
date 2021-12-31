@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.
-Adding line for rebase example, then more changes from rebase example
+Adding line for rebase example, then more changes from rebase example.
+updating for emergency fix after stahing.
 
 ## Introduction
 This is example various commands that we use on git.
